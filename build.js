@@ -10,7 +10,7 @@ let firstNum = prompt('First Number');
    let subtraction = "-";
    let multiplication = "*";
    let division = "/";
-  // let remainder = "%";
+   let remainder = "%";
 
   if (usersChoice === addition) {
   alert(parseInt(firstNum) + parseInt(secondNum));
