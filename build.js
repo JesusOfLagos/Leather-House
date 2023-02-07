@@ -23,7 +23,7 @@ let firstNum = prompt('First Number');
   // } else if  (usersChoice === remainder) {
   // alert(parseInt(firstNum) % parseInt(secondNum));
   // } else {
-  // alert("Invalid Input");
+  alert("Invalid Input");
    };
 
   //switch case statements
