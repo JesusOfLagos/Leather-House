@@ -13,7 +13,7 @@ let firstNum = prompt('First Number');
   // let remainder = "%";
 
   if (usersChoice === addition) {
-  // alert(parseInt(firstNum) + parseInt(secondNum));
+  alert(parseInt(firstNum) + parseInt(secondNum));
   // } else if  (usersChoice === subtraction) {
   // alert(parseInt(firstNum) - parseInt(secondNum));
   // } else if  (usersChoice === multiplication) {
