@@ -22,7 +22,7 @@ let firstNum = prompt('First Number');
   // alert(parseInt(firstNum) / parseInt(secondNum));
   // } else if  (usersChoice === remainder) {
   // alert(parseInt(firstNum) % parseInt(secondNum));
-  // } else {
+   } else {
   alert("Invalid Input");
    };
 
