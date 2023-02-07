@@ -19,7 +19,7 @@ let firstNum = prompt('First Number');
   // } else if  (usersChoice === multiplication) {
   // alert(parseInt(firstNum) * parseInt(secondNum));
   // } else if  (usersChoice === division) {
-  // alert(parseInt(firstNum) / parseInt(secondNum));
+  alert(parseInt(firstNum) / parseInt(secondNum));
    } else if  (usersChoice === remainder) {
   alert(parseInt(firstNum) % parseInt(secondNum));
    } else {
