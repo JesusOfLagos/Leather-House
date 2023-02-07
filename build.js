@@ -8,7 +8,7 @@ let firstNum = prompt('First Number');
   
    let addition = "+";
    let subtraction = "-";
-  // let multiplication = "*";
+   let multiplication = "*";
   // let division = "/";
   // let remainder = "%";
 
