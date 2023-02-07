@@ -14,7 +14,7 @@ let firstNum = prompt('First Number');
 
   if (usersChoice === addition) {
   alert(parseInt(firstNum) + parseInt(secondNum));
-  // } else if  (usersChoice === subtraction) {
+  } else if  (usersChoice === subtraction) {
   // alert(parseInt(firstNum) - parseInt(secondNum));
   // } else if  (usersChoice === multiplication) {
   // alert(parseInt(firstNum) * parseInt(secondNum));
