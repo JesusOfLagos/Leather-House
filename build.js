@@ -24,7 +24,7 @@ let firstNum = prompt('First Number');
   // alert(parseInt(firstNum) % parseInt(secondNum));
   // } else {
   // alert("Invalid Input");
-  // };
+   };
 
   //switch case statements
 switch(usersChoice){
