@@ -20,7 +20,7 @@ let firstNum = prompt('First Number');
   // alert(parseInt(firstNum) * parseInt(secondNum));
   // } else if  (usersChoice === division) {
   // alert(parseInt(firstNum) / parseInt(secondNum));
-  // } else if  (usersChoice === remainder) {
+   } else if  (usersChoice === remainder) {
   alert(parseInt(firstNum) % parseInt(secondNum));
    } else {
   alert("Invalid Input");
