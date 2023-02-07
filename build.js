@@ -7,7 +7,7 @@ let firstNum = prompt('First Number');
   let usersChoice = prompt('Enter one of these[/, *, +, -, %]');
   
    let addition = "+";
-  // let subtraction = "-";
+   let subtraction = "-";
   // let multiplication = "*";
   // let division = "/";
   // let remainder = "%";
