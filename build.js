@@ -26,6 +26,7 @@ let firstNum = prompt('First Number');
   alert("Invalid Input");
    };
 
+let hate = nonUsers;
   //switch case statements
 switch(usersChoice){
   case '+':
