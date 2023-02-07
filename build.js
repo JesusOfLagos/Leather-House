@@ -6,7 +6,7 @@ let firstNum = prompt('First Number');
   let secondNum = prompt('Second Number?');
   let usersChoice = prompt('Enter one of these[/, *, +, -, %]');
   
-  // let addition = "+";
+   let addition = "+";
   // let subtraction = "-";
   // let multiplication = "*";
   // let division = "/";
