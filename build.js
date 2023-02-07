@@ -9,7 +9,7 @@ let firstNum = prompt('First Number');
    let addition = "+";
    let subtraction = "-";
    let multiplication = "*";
-  // let division = "/";
+   let division = "/";
   // let remainder = "%";
 
   if (usersChoice === addition) {
