@@ -68,8 +68,10 @@ switch(usersChoice){
   } else if  (usersChoice === division) {
   alert(parseInt(firstNum) / parseInt(secondNum));
    } else if  (usersChoice === remainder) {
+  alert(parseInt(firstNum) % parseInt(secondNum))
+ } else if  (usersChoice !=) {
   alert(parseInt(firstNum) % parseInt(secondNum));
-   } else {
+ }else {
   alert("Invalid Input");
    };
 
