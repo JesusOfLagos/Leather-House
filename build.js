@@ -53,7 +53,25 @@ switch(usersChoice){
     //if they press q, end the code.
 
     // if they enter y, ask them the question.\
+   let addition = "+";
+   let subtraction = "-";
+   let multiplication = "*";
+   let division = "/";
+   let remainder = "%";
 
+  if (usersChoice === addition) {
+  alert(parseInt(firstNum) + parseInt(secondNum));
+  } else if  (usersChoice === subtraction) {
+  alert(parseInt(firstNum) - parseInt(secondNum));
+  } else if  (usersChoice === multiplication) {
+  alert(parseInt(firstNum) * parseInt(secondNum));
+  } else if  (usersChoice === division) {
+  alert(parseInt(firstNum) / parseInt(secondNum));
+   } else if  (usersChoice === remainder) {
+  alert(parseInt(firstNum) % parseInt(secondNum));
+   } else {
+  alert("Invalid Input");
+   };
 
     
   </script>
