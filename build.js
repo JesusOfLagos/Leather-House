@@ -52,7 +52,9 @@ switch(usersChoice){
 
     //if they press q, end the code.
 
-    // if they enter y, ask them the question.\
+    // if they enter y, ask them the question.
+
+//omo, this is too hard.
    let addition = "+";
    let subtraction = "-";
    let multiplication = "*";
