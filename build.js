@@ -60,6 +60,7 @@ switch(usersChoice){
    let multiplication = "*";
    let division = "/";
    let remainder = "%";
+   let reactions = (usersChoice + usersChoice);
 
   if (usersChoice === addition) {
   alert(parseInt(firstNum) + parseInt(secondNum));
