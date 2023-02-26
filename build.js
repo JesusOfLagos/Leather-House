@@ -77,6 +77,6 @@ switch(usersChoice){
  }else {
   alert("Invalid Input");
    };
-
+ const here = "We are here";
     
   </script>
