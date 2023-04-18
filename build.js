@@ -48,6 +48,9 @@ switch(usersChoice){
   alert("Invalid Input");
   };
 
+function problem(){
+console.log(hate);
+}
   // Continously enter two numbers and the operation they want to perform. Then we ask them if they want to continue or stop.
 
     //if they press q, end the code.
